@@ -1,5 +1,6 @@
-Project Overview
-Title: Cross-Market Analysis: Crypto, Oil & Stocks with SQL and Streamlit. Domain: Financial Analytics / Business Intelligence (BI).
+**Project Overview:
+
+Title: Cross-Market Analysis: Crypto, Oil & Stocks with SQL and Streamlit. Domain: Financial Analytics / Business Intelligence (BI).**
 The core objective of this project is to build an analytics platform to determine if cryptocurrency behaves like "digital gold" (correlated with traditional assets) or if it is a completely different asset class. You will achieve this by comparing the performance of top cryptocurrencies against Oil (WTI benchmark) and global stock indices (S&P 500, NASDAQ, NIFTY) over the past few years.
 Key Objectives & Use Cases
 The project aims to facilitate several real-world business scenarios:
